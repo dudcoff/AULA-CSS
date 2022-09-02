@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Oooh+Baby&display=swap');
+
+body{
+    background-color:#eddcd2;
+}
+h1{
+    color:#3d405b;
+    text-align: center;
+    font-family:serif;
+    text-shadow: 4px 8px 10px ;
+}
+
+h2{
+    color:#3d405b;
+    text-align: center;
+    font-family:serif;
+    font-family: 'Aboreto', cursive;
+    text-shadow: 4px 3px 5px #774936;
+}
+
+p{
+    color:#2b2d42;
+    text-align: justify;
+    font-size: 1.4em;
+}
+
+strong{
+    color:#cb997e;
+    background-color:#faedcd;
+    
+}
+
+#destaque {
+    color: #774936;
+    font-style: italic;
+}
+
+p.classe {
+    text-align: center;
+}
